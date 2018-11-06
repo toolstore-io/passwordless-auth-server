@@ -1,0 +1,8 @@
+{
+  "env": {
+    "SENDGRID_API_KEY": "@sendgrid-api-secret-key",
+    "SENDGRID_TEMPLATE_ID": "d-a675c3699c134aed94d761aeccf563f5",
+    "FROM_EMAIL": "auth@toolstore.io",
+    "JWT_SECRET": "@jwt-secret"
+  }
+}
